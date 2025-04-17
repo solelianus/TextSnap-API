@@ -11,7 +11,7 @@ A powerful FastAPI-based service for image processing and text rendering with fe
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/textsnap-api.git
+git clone https://github.com/solelianus/textsnap-api.git
 cd textsnap-api
 
 # Create and activate virtual environment
@@ -47,7 +47,7 @@ The API will be available at `http://localhost:8080/api/v1`
 
 ## Documentation
 
-For detailed documentation, please visit our [documentation site](https://yourusername.github.io/textsnap-api/) or check the `docs/` directory:
+For detailed documentation, please visit our [documentation site](https://solelianus.github.io/textsnap-api/) or check the `docs/` directory:
 
 - [Installation Guide](docs/installation.md)
 - [Configuration](docs/configuration.md)
@@ -75,8 +75,8 @@ For detailed documentation, please visit our [documentation site](https://yourus
 ## Support
 
 ### Community Support
-- [GitHub Discussions](https://github.com/yourusername/textsnap-api/discussions)
-- [Discord Community](https://discord.gg/your-invite-link)
+- [GitHub Discussions](https://github.com/solelianus/textsnap-api/discussions)
+- [Discord Community](https://discord.gg/textsnap)
 
 ### Professional Support
 For professional support, please contact:
@@ -84,7 +84,7 @@ For professional support, please contact:
 - Website: https://textsnap.com/support
 
 ### Bug Reports and Feature Requests
-Please use our [GitHub Issues](https://github.com/yourusername/textsnap-api/issues) to:
+Please use our [GitHub Issues](https://github.com/solelianus/textsnap-api/issues) to:
 - Report bugs
 - Request features
 - Ask questions
@@ -112,4 +112,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name/Organization] 
+Made with ❤️ by solelianus 

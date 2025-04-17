@@ -15,7 +15,7 @@ This guide provides information for developers who want to contribute to the Tex
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/textsnap-api.git
+   git clone https://github.com/solelianus/textsnap-api.git
    cd textsnap-api
    ```
 
