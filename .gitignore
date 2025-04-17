@@ -174,3 +174,29 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+
+# output data 
+/output
+/test_results
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+output/
+cache/
+*.log
+
+# Test results
+test_results/
+.coverage
+htmlcov/
+.pytest_cache/
